@@ -54,6 +54,6 @@ We applied and compared different ML models, including **Logistic Regression, K-
 ---
 ## 📄 Research Paper
 The detailed research paper related to this project is available in a separate repository:  
-👉 [Heart Disease Prediction – Research Paper]()
+👉 [Heart Disease Prediction – Research Paper](https://github.com/Vishesh2108/ResearchPaper.git)
 
 
