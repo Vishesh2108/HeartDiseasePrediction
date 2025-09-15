@@ -53,7 +53,7 @@ We applied and compared different ML models, including **Logistic Regression, K-
 
 ---
 ## 📄 Research Paper
-You can read the complete research paper here:  
-[Heart Disease Prediction Using Machine Learning (PDF)](Research_Paper(24-PBD-008).pdf)
+The detailed research paper related to this project is available in a separate repository:  
+👉 [Heart Disease Prediction – Research Paper]()
 
 
