@@ -53,8 +53,3 @@ We applied and compared different ML models, including **Logistic Regression, K-
 
 ---
 
-## 🚀 How to Run  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/HeartDiseasePrediction.git
-   cd HeartDiseasePrediction
